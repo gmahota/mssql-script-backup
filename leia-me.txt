@@ -1,0 +1,5 @@
+Para a implementacao devera criar uma pasta no computador
+
+C:\SQL\BACKUPScript\
+
+em seguida copiar os ficheiros Primavera_Backup.bat e primavera.sql
